@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "version": [0, 2, 1],
+        "editions": [
+            {
+                "platform": "macos",
+                "link": "https://github.com/metasophiea/alchemy-downloads/releases/download/v0.2.1/alchemy-macos.dmg"
+            },
+            {
+                "platform": "windows",
+                "link": "https://github.com/metasophiea/alchemy-downloads/releases/download/v0.2.1/alchemy-windows.exe"
+            }
+        ]
+    }
+]
