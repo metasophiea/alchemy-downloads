@@ -11,5 +11,18 @@
                 "link": "https://github.com/metasophiea/alchemy-downloads/releases/download/v0.2.1/alchemy-windows.exe"
             }
         ]
+    },
+    {
+        "version": [0, 2, 2],
+        "editions": [
+            {
+                "platform": "macos",
+                "link": "https://github.com/metasophiea/alchemy-downloads/releases/download/v0.2.2/alchemy-macos.dmg"
+            },
+            {
+                "platform": "windows",
+                "link": "https://github.com/metasophiea/alchemy-downloads/releases/download/v0.2.2/alchemy-windows.exe"
+            }
+        ]
     }
 ]
